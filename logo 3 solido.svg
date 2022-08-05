@@ -57,6 +57,8 @@ baseProfile="tiny-ps"
      id="layer1"
      transform="translate(0,-161.53332)">
     <image
+       y="163.27199"
+       x="1.2851156"
        id="image3782"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOwAAADsCAYAAAB300oUAAAACXBIWXMAAC4jAAAuIwF4pT92AAFI
 L0lEQVR4nOz9d7xt2VXfiX5nWGnnffI599xQ91aWqlRKSKCHCAJMsEE4Y7fsNm53u9Nr2+22/drt
